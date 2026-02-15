@@ -4,7 +4,7 @@
 .container {
   max-width: 1200px;
   width: 100%;
-  height: 1000px;
+  height: 900px;
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
@@ -52,10 +52,9 @@
   .container .profile {
     flex-direction: column;
     justify-content: center;
-    
   }
   .container .profile .info,
   .container .profile .contact {
-    text-align: center;
+    margin-left: 0;
   }
 }
