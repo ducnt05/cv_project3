@@ -46,12 +46,9 @@
 
 /* Mobile */
 @media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
   .container .profile {
     flex-direction: column;
-    justify-content: center;
+
     align-items: center;
   }
   .container .profile .avatar .img {
