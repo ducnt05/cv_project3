@@ -55,6 +55,7 @@
   }
   .container .profile .info,
   .container .profile .contact {
+    text-align: center;
     margin-left: 0;
   }
 }
