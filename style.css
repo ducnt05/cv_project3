@@ -52,7 +52,9 @@
   .container .profile {
     flex-direction: column;
     justify-content: center;
-    gap: 10px;
-    flex-wrap: wrap;
+    
+  }
+  .container .profile .info {
+    text-align: center;
   }
 }
