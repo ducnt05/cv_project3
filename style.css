@@ -54,7 +54,8 @@
     justify-content: center;
     
   }
-  .container .profile .info {
+  .container .profile .info,
+  .container .profile .contact {
     text-align: center;
   }
 }
