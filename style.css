@@ -42,7 +42,19 @@
   justify-content: space-evenly;
   padding: 10%;
 }
-.container .section {
-    display: none;
-}
 
+
+/* Mobile */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .box {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+}
