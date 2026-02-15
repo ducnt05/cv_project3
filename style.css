@@ -53,6 +53,10 @@
     flex-direction: column;
     justify-content: center;
   }
+  .container .profile .avatar .img {
+    width: 100px;
+    height: 100px;
+  }
   .container .profile .info,
   .container .profile .contact {
     text-align: center;
